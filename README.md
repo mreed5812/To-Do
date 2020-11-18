@@ -5,10 +5,10 @@
 Created this app to work on DOM manipulation as well as to use for my own tasks.
 
 ## Technologies
--HTML
--CSS
--Javascript
--Boostrap
+- HTML
+- CSS
+- Javascript
+- Boostrap
 
 ## Installation
 ```
